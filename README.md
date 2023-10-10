@@ -1,6 +1,17 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## E-commerce-admin
+
+
+<img width="1277" alt="Screenshot 2023-10-10 at 15 17 44" src="https://github.com/ayfan1/car-showcase-next13/assets/117119115/b84724d7-b05f-4c0e-a4e4-97ab9f8681e1">
+
+### Also conect it with E-commerce-store
+
+<img width="1274" alt="Screenshot 2023-10-10 at 15 18 47" src="https://github.com/ayfan1/car-showcase-next13/assets/117119115/51e0902b-fd3b-42ad-82e5-3d33607a892a">
+
+<img width="1271" alt="Screenshot 2023-10-10 at 15 20 19" src="https://github.com/ayfan1/car-showcase-next13/assets/117119115/88dfb421-1e3e-451d-b6a0-a7a093f22f24">
+
+
 
 First, run the development server:
 
@@ -10,27 +21,15 @@ npm run dev
 yarn dev
 # or
 pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open E-commerce-admin [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open E-commerce-store [http://localhost:3001](http://localhost:3001) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+### Or also open on [E-commerce-admin on vercal](https://ecommerce-admin4.vercel.app/)
 
-To learn more about Next.js, take a look at the following resources:
+### Or also open on [E-commerce-store on vercal](https://ecommerce-store4.vercel.app/)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
